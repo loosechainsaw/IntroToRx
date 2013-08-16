@@ -1,4 +1,6 @@
-IntroToRx
+Introduction to Reactive Extension
 =========
 
-IntroToRx
+Just my scratchpad as I learn Rx from www.introtorx.com
+
+
